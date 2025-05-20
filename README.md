@@ -106,11 +106,7 @@ Weights and metrics (`model_weights.npz`, `training_metrics.npz`) auto-save for 
 - [matplotlib](https://matplotlib.org/)
 - [Pillow](https://python-pillow.org/)
 
-## Coming Soon
 
-- **Digit Drawing:** Scribble digits and get real-time predictions.
-- **Advanced Models:** Play around with deeper and smarter architectures.
-- **Speed Boosts:** Performance improvements for faster inference.
 
 ## Acknowledgments
 
