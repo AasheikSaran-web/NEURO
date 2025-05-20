@@ -1,6 +1,6 @@
 <a href="https://digitvision-aasheik.streamlit.app/" target="_blank">🚀 <strong>Feeling Lazy? Just Click Here for the Live Demo!</strong> 🚀</a>
 
-# DigitVision: Analog Neural Network Explorer
+# DigitVision: Analog Neural Network for MINST dataset
 
 Welcome, lazy genius! If setting things up manually feels like a drag, click the live demo link above and dive straight into DigitVision. For the brave souls (or the simply curious) who want to poke around under the hood, read on!
 
